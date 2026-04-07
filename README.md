@@ -107,8 +107,8 @@ I build clean, practical software and enjoy turning ideas into useful products.
 
 ## GitHub Stats
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsean&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srsean&layout=compact)
+![Sean's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srsean&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srsean&theme=github_dark)
 
 ## Contact
 
