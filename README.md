@@ -15,18 +15,77 @@ I build clean, practical software and enjoy turning ideas into useful products.
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Languages
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="40" height="40" />
+</p>
+
+### Frontend And Mobile
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" title="React Native" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40" />
+</p>
+
+### Backend And Frameworks
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40" />
+</p>
+
+### Databases
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+</p>
+
+### Cloud And Platforms
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="GCP" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cpanel.svg" alt="cPanel" title="cPanel" width="40" height="40" />
+	</p>
+
+### CMS
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" width="40" height="40" />
+	</p>
+
+### Ecommerce
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/shopify.svg" alt="Shopify" title="Shopify" width="40" height="40" />
+</p>
+
+### Tools
+
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="AI" title="AI" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+</p>
 
 ## Featured Projects
 
-- [Project One](https://github.com/srsean/project-one): short description of what it does
-- [Project Two](https://github.com/srsean/project-two): short description of what problem it solves
-- [Project Three](https://github.com/srsean/project-three): short description of your impact or outcome
+- [File Converter](https://file-converter.craft-by-sr.net/): a web-based tool for converting files quickly with a simple and user-friendly interface
+- [Youtube Comments Chrome Extension](https://chromewebstore.google.com/detail/youtube-comments/pogmokehekjfeknfcmncfcfkocaknffl): a Chrome extension that improves the YouTube comment experience for faster reading and interaction
+- [Dota2 Admin](https://dota-admin.craft-by-sr.net/): an admin dashboard for managing Dota 2 related content, data, and workflows more efficiently
 
 ## GitHub Stats
 
