@@ -107,8 +107,24 @@ I build clean, practical software and enjoy turning ideas into useful products.
 
 ## GitHub Stats
 
-![Sean's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srsean&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srsean&theme=github_dark)
+<p align="center">
+	A quick snapshot of my coding activity and favorite languages.
+</p>
+
+<p align="center">
+	<a href="https://github.com/srsean">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srsean&theme=github_dark" alt="Sean's GitHub Stats" />
+	</a>
+	<a href="https://github.com/srsean">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srsean&theme=github_dark" alt="Top Languages" />
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/srsean">
+		<img src="https://streak-stats.demolab.com?user=srsean&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+	</a>
+</p>
 
 ## Contact
 
