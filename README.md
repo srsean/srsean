@@ -108,21 +108,16 @@ I build clean, practical software and enjoy turning ideas into useful products.
 ## GitHub Stats
 
 <p align="center">
-	A quick snapshot of my coding activity and favorite languages.
-</p>
-
-<p align="center">
-	<a href="https://github.com/srsean">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srsean&theme=github_dark" alt="Sean's GitHub Stats" />
-	</a>
-	<a href="https://github.com/srsean">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srsean&theme=github_dark" alt="Top Languages" />
-	</a>
-</p>
-
-<p align="center">
+	<strong>Consistency</strong><br />
 	<a href="https://github.com/srsean">
 		<img src="https://streak-stats.demolab.com?user=srsean&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+	</a>
+</p>
+
+<p align="center">
+	<strong>Activity Graph</strong><br />
+	<a href="https://github.com/srsean">
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=srsean&theme=github-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 	</a>
 </p>
 
