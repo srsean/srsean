@@ -1,4 +1,6 @@
-# Hi, I'm Sean
+<p align="center">
+	<img src="./assets/intro-banner.svg" alt="Hi, I'm Sean" width="100%" />
+</p>
 
 I build clean, practical software and enjoy turning ideas into useful products.
 

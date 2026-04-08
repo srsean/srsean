@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="240" viewBox="0 0 920 240" role="img" aria-labelledby="title desc">
+  <title id="title">Profile intro banner</title>
+  <desc id="desc">Animated intro banner with the text Hi, I'm Sean and decorative accents.</desc>
+
+  <defs>
+    <linearGradient id="bgMain" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1a" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1f2937" />
+    </linearGradient>
+
+    <linearGradient id="bgBand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0.22" />
+    </linearGradient>
+
+    <linearGradient id="titleFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dbeafe" />
+      <stop offset="45%" stop-color="#93c5fd" />
+      <stop offset="100%" stop-color="#fcd34d" />
+    </linearGradient>
+
+    <linearGradient id="ruleFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+
+    <pattern id="grid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect x="6" y="6" width="908" height="228" rx="30" fill="url(#bgMain)" />
+  <rect x="6" y="6" width="908" height="228" rx="30" fill="url(#grid)" />
+
+  <rect x="26" y="146" width="868" height="68" rx="20" fill="url(#bgBand)">
+    <animate attributeName="opacity" values="0.55;0.8;0.55" dur="5s" repeatCount="indefinite" />
+  </rect>
+
+  <g>
+    <circle cx="760" cy="56" r="9" fill="#f59e0b" opacity="0.9">
+      <animate attributeName="cy" values="56;72;56" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="790" cy="82" r="6" fill="#93c5fd" opacity="0.85">
+      <animate attributeName="cy" values="82;66;82" dur="2.6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="825" cy="58" r="4" fill="#fcd34d" opacity="0.85">
+      <animate attributeName="cy" values="58;70;58" dur="2.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g transform="translate(56,92)">
+    <text x="0" y="0" fill="#94a3b8" font-family="Consolas, Menlo, Monaco, monospace" font-size="20" letter-spacing="1">
+      > echo welcome
+    </text>
+
+    <text x="0" y="74" fill="url(#titleFill)" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="62" font-weight="700">
+      Hi, I'm Sean
+      <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" repeatCount="indefinite" />
+    </text>
+
+    <text x="442" y="74" font-size="56" fill="#fde68a">
+      👋
+      <animateTransform attributeName="transform" type="rotate" values="0 442 74;16 442 74;0 442 74;-8 442 74;0 442 74" dur="1.5s" repeatCount="indefinite" />
+    </text>
+
+    <rect x="0" y="92" width="520" height="4" rx="2" fill="url(#ruleFill)">
+      <animate attributeName="width" values="160;520;160" dur="4.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.35;0.75;0.35" dur="4.2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
